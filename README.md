@@ -1,0 +1,2 @@
+# KanBanLecture
+just practice lecture
